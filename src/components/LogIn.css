@@ -1,0 +1,22 @@
+.title {
+    padding-bottom: .6em;
+}
+.text-area {
+    margin-bottom: .6em;
+}
+
+.button {
+    margin-top: 1em;
+}
+
+.link {
+    display: block;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+
+    text-align: left;
+
+    margin-top: 1.5em;
+}

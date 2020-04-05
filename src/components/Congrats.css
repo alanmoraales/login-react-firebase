@@ -1,0 +1,14 @@
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+
+    text-align: left;
+}
+
+.title {
+    margin-bottom: 0.3em;
+}
+
+.button {
+    margin-top: 1.7em;
+}
